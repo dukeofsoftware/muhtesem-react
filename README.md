@@ -74,7 +74,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 - [pusher-js](https://pusher.com/) => Realtime işlemler için
 - [database-js](https://www.npmjs.com/package/database-js) => Database
 - [prisma](https://www.prisma.io/) => Database
-- [https://www.npmjs.com/package/stripe] => Ödeme işlemleri
+- [stripe](https://www.npmjs.com/package/stripe) => Ödeme işlemleri
 
 ### React UI Kitleri ve Geliştirme Araçları
 - [TailwindCSS](https://tailwindcss.com/) => Önerdiğim
