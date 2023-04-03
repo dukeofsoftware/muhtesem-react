@@ -67,6 +67,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 - [next-translate](https://github.com/aralroca/next-translate) => Çoklu dil desteği için
 - [next-i18next](https://github.com/i18next/next-i18next) => Çoklu dil desteği için
 - [next-sitemap](https://www.npmjs.com/package/next-sitemap) => sitemap oluşturmak için
+- [nextjs-progressbar](https://www.npmjs.com/package/nextjs-progressbar) => progress bar için
 - [@next/mdx](https://nextjs.org/docs/advanced-features/using-mdx) => mdx dosyaları için
 - [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote#react-server-components-rsc--nextjs-app-directory-support) => Serverdan mdx dosyası çekmek için
 - [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) => Uygulamanızdaki paketlerin boyutunu analiz etmenize yardım eder
