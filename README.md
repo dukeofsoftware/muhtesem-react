@@ -69,6 +69,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 - [next-sitemap](https://www.npmjs.com/package/next-sitemap) => sitemap oluşturmak için
 - [@next/mdx](https://nextjs.org/docs/advanced-features/using-mdx) => mdx dosyaları için
 - [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote#react-server-components-rsc--nextjs-app-directory-support) => Serverdan mdx dosyası çekmek için
+- [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) => Uygulamanızdaki paketlerin boyutunu analiz etmenize yardım eder
 - [next-pwa](https://www.npmjs.com/package/next-pwa)
 - [next-compose-plugins](https://www.npmjs.com/package/next-compose-plugins) => Birden fazla paketi bir arada kullanmak için
 - [next-themes](next-themes) => Next.js uygulamasında tema kulanmak için
