@@ -46,6 +46,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
    - [react-icons](https://react-icons.github.io/react-icons/) => Popüler ikon kütüphanelerinden ikonları React uygulamasına eklemek için
    - [react-toastify](https://www.npmjs.com/package/react-toastify) => Bildirimler için
    - [react-hot-toast](https://react-hot-toast.com/) => Bildirimler için
+   - [sonner](https://github.com/emilkowalski/sonner) => Bildirimler için
    - [react-helmet](https://www.npmjs.com/package/react-helmet) => SEO ayarı için
    - [react-modal](https://www.npmjs.com/package/react-modal) => Modal penceresi oluşturmak için
    - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) => Sürükle ve bırak özellikleri eklemek için
