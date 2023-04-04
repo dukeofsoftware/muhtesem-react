@@ -166,7 +166,7 @@ pnpx vercel login
 ```
 
 ```
-vercel link
+pnpx vercel link
 ```
 
 ### VERCEL_ORG_ID, VERCEL_PROJECT_ID, VERCEL_TOKEN repository secrets olarak girilmelidir.
