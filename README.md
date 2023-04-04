@@ -2,6 +2,9 @@
 
 En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynaklarının bir listesi
 
+---
+
+## Başlıklar
 - [React ve Next.js](#react)
 
   - [React Paketleri](#react-paketleri)
@@ -22,6 +25,8 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
   - [Projenin kurulumu](#projenin-kurulumu-eslint-prettier-tailwindcss-ve-dosya-yapısı-içerir)
   - [Production Action Workflow](#production-build-için-action-workflow)
   - [Preview Action Workflow](#preview-build-için-action-workflow)
+
+---
 
 ### React Paketleri
 
