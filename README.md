@@ -143,6 +143,8 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 - [Mehmet Pekcan | Sıfırdan, İleri Seviye Next.js 13 ile Web App Geliştirme
   ](https://www.udemy.com/course/sifirdan-ileri-seviye-nextjs-13-ile-web-app-gelistirme/) => Next.js için önerdiğim
 
+---
+
 ### Projeye Başlarken
 
 #### Projenin kurulumu. Eslint prettier tailwindcss ve dosya yapısı içerir.
