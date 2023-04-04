@@ -16,6 +16,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
     - [React Şablonları](#react-şablonları)
     - [React Youtube Kanalları](#react-youtube-kanalları)
     - [React Udemy Kursları](#react-udemy-kursları)
+- [Projeye Başlarken](#projeye-başlarken)
 ### React Paketleri
 
 
@@ -121,3 +122,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 ### React Udemy Kursları
 - [Mehmet Pekcan | Sıfırdan, İleri Seviye Next.js 13 ile Web App Geliştirme
  ](https://www.udemy.com/course/sifirdan-ileri-seviye-nextjs-13-ile-web-app-gelistirme/) => Next.js için önerdiğim
+ 
+ 
+ ### Projeye Başlarken
+ 
