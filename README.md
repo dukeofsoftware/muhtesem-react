@@ -61,7 +61,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
   - [react-helmet](https://www.npmjs.com/package/react-helmet) => SEO ayarı için
   - [react-modal](https://www.npmjs.com/package/react-modal) => Modal penceresi oluşturmak için
   - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) => Sürükle ve bırak özellikleri eklemek için
-  - [@react-pdf/renderer]("https://react-pdf.org/")
+  - [@react-pdf/renderer](https://react-pdf.org/) => pdf oluşturmak için
 
   - [react-email](https://react.email/) => Email oluşturmak için
   - [react-infinite-scroller](https://www.npmjs.com/package/react-infinite-scroller) => Sonsuz kaydırma için
