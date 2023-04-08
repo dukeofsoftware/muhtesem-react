@@ -61,6 +61,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
   - [react-helmet](https://www.npmjs.com/package/react-helmet) => SEO ayarı için
   - [react-modal](https://www.npmjs.com/package/react-modal) => Modal penceresi oluşturmak için
   - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) => Sürükle ve bırak özellikleri eklemek için
+  - [react-email](https://react.email/) => Email oluşturmak için
   - [react-infinite-scroller](https://www.npmjs.com/package/react-infinite-scroller) => Sonsuz kaydırma için
   - [react-leaflet](https://react-leaflet.js.org/) => Harita kullanımı için
   - [framer-motion](https://www.framer.com/motion/) => Animasyonlar için
@@ -72,6 +73,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
   - [react-table](https://react-table-v7.tanstack.com/) => Tablo oluşturmak ve yönetmek için
   - [firebase](https://firebase.google.com/docs/web/setup?hl=tr)
   - [supabase](https://supabase.com/docs)
+  
 
 ### Next.js Paketleri
 
