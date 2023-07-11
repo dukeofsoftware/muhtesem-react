@@ -17,6 +17,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
   - [React UI Kitleri ve Geliştirme Araçları](#react-ui-kitleri-ve-geliştirme-araçları)
   - [TailwindCSS](#tailwindcss-paketleri)
   - [React Şablonları](#react-şablonları)
+  - [Bazı güzel repolar](#bazı-güzel-repolar)
   - [React Youtube Kanalları](#react-youtube-kanalları)
   - [React Udemy Kursları](#react-udemy-kursları)
   - [Paket Menajeri](#paket-menajeri)
@@ -34,8 +35,8 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 
   - [React Hook Form](https://react-hook-form.com/) => Önerdiğim
   - [Formik](https://formik.org/)
-  - [Yup](https://github.com/jquense/yup) => Form doğrulamaları için react-hook-form ve formik ile beraber kullanılmasını önerdiğim
-
+  - [Yup](https://github.com/jquense/yup) 
+  - [zod](https://zod.dev/) => önerdiğim
 - #### Veri Çekerken
 
   - [React Query](https://tanstack.com/query/v3/) => önerdiğim
@@ -44,7 +45,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 
 - #### State Yönetimi
 
-  - [Zustand](https://github.com/pmndrs/zustand) => Başlangıç için önerdiğim
+  - [Zustand](https://github.com/pmndrs/zustand) => önerdiğim
   - [Redux Toolkit](https://redux-toolkit.js.org/)
 
 - #### Testing
@@ -62,20 +63,21 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
   - [react-modal](https://www.npmjs.com/package/react-modal) => Modal penceresi oluşturmak için
   - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) => Sürükle ve bırak özellikleri eklemek için
   - [@react-pdf/renderer](https://react-pdf.org/) => pdf oluşturmak için
-
+  - [@editorjs/editorjs](https://editorjs.io/) => Markdown content oluşturmak için
   - [react-email](https://react.email/) => Email oluşturmak için
   - [react-infinite-scroller](https://www.npmjs.com/package/react-infinite-scroller) => Sonsuz kaydırma için
   - [react-leaflet](https://react-leaflet.js.org/) => Harita kullanımı için
   - [framer-motion](https://www.framer.com/motion/) => Animasyonlar için
   - [react-chartjs-2](https://react-chartjs-2.js.org/) => Grafikler için
   - [react-joyride](https://react-joyride.com/) => Site turu için
+  - [query-string](https://www.npmjs.com/package/query-string) => query'İ stringe çevirmek için
   - [lodash.debounce](https://www.npmjs.com/package/lodash.debounce) => Optimizasyon için
   - [storybook](https://storybook.js.org/docs/react/writing-docs/docs-page) => UI bileşenlerin geliştirilip test edilmesi için
   - [react-loading-skeleton](https://www.npmjs.com/package/react-loading-skeleton) => Yükleme göstergesi için
   - [react-table](https://react-table-v7.tanstack.com/) => Tablo oluşturmak ve yönetmek için
   - [firebase](https://firebase.google.com/docs/web/setup?hl=tr)
   - [supabase](https://supabase.com/docs)
-  
+  - [clerkjs](https://clerk.com/docs) => Sadece birkaç satır kodla bütün authentication işlemlerini halledin
 
 ### Next.js Paketleri
 
@@ -93,9 +95,10 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 - [next-themes](next-themes) => Next.js uygulamasında tema kulanmak için
 - [pusher-js](https://pusher.com/) => Realtime işlemler için
 - [database-js](https://www.npmjs.com/package/database-js) => Database
-- [prisma](https://www.prisma.io/) => Database
+- [prisma](https://www.prisma.io/) => Database orm
+- [drizzle](https://github.com/drizzle-team/drizzl) => database orm
 - [stripe](https://www.npmjs.com/package/stripe) => Ödeme işlemleri
-
+- [nextjs-toploader](nextjs-toploader)
 ### Paket Menajeri
 
 - [npm](https://www.npmjs.com/)
@@ -108,7 +111,8 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 - [Material UI](https://mui.com/) => Önerdiğim
 - [Material Tailwind](https://www.material-tailwind.com/)
 - [Radix UI](https://www.radix-ui.com/)
-- [Mantine](https://mantine.dev/) => Önerdiğim
+- [Mantine](https://mantine.dev/)
+- [shadcnUI](https://ui.shadcn.com/)
 
 ### TailwindCSS paketleri
 
@@ -123,6 +127,14 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 ### React Şablonları
 
 - [Next.js v13.2 tailwindcss template with prettier and eslint](https://github.com/dukeofsoftware/next-project-starter) => önerdiğim
+
+### Bazı güzel repolar
+
+- [Reddit clone Next.js](https://github.com/joschan21/breadit)
+- [Spotify clone Next.js](https://github.com/AntonioErdeljac/next13-spotify)
+- [Messanger clone Next.js](https://github.com/AntonioErdeljac/next13-messenger)
+- [E-commerce clone Next.js](https://github.com/AntonioErdeljac/next13-ecommerce-admin)
+- [Real time chat app Next.js](https://github.com/joschan21/nextjs-realtime-chat)
 
 ### React Youtube Kanalları
 
