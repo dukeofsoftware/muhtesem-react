@@ -108,11 +108,12 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 ### React UI Kitleri ve Geliştirme Araçları
 
 - [TailwindCSS](https://tailwindcss.com/) => Önerdiğim
-- [Material UI](https://mui.com/) => Önerdiğim
+- [shadcnUI](https://ui.shadcn.com/) => Önerdiğim
+
+- [Material UI](https://mui.com/) 
 - [Material Tailwind](https://www.material-tailwind.com/)
 - [Radix UI](https://www.radix-ui.com/)
 - [Mantine](https://mantine.dev/)
-- [shadcnUI](https://ui.shadcn.com/)
 
 ### TailwindCSS paketleri
 
