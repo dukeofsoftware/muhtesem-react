@@ -160,7 +160,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 
 ---
 
-### Projeye Başlarken
+### Nextjs ile Projeye Başlarken
 
 #### Projenin kurulumu. Eslint prettier tailwindcss ve dosya yapısı içerir.
 
