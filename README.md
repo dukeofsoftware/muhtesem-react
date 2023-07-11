@@ -120,13 +120,11 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 - [tailwind-merge](https://www.npmjs.com/package/tailwind-merge)
 - [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms)
 - [@tailwindcss/typography](https://tailwindcss.com/docs/typography-plugin)
-- [@tailwindcss/line-clamp](https://www.npmjs.com/package/@tailwindcss/line-clamp)
 - [tailwindcss-debug-screens](https://www.npmjs.com/package/tailwindcss-debug-screens)
 - [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 
 ### React Şablonları
 
-- [Next.js v13.2 tailwindcss template with prettier and eslint](https://github.com/dukeofsoftware/next-project-starter) => önerdiğim
 
 ### Bazı güzel repolar
 
