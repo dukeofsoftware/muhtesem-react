@@ -56,6 +56,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 
 - #### İşe Yarar Paketler
   - [react-icons](https://react-icons.github.io/react-icons/) => Popüler ikon kütüphanelerinden ikonları React uygulamasına eklemek için
+  - [react-csv](https://www.npmjs.com/package/react-csv)
   - [react-toastify](https://www.npmjs.com/package/react-toastify) => Bildirimler için
   - [react-hot-toast](https://react-hot-toast.com/) => Bildirimler için
   - [sonner](https://github.com/emilkowalski/sonner) => Bildirimler için
@@ -77,14 +78,15 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
   - [react-table](https://react-table-v7.tanstack.com/) => Tablo oluşturmak ve yönetmek için
   - [firebase](https://firebase.google.com/docs/web/setup?hl=tr)
   - [supabase](https://supabase.com/docs)
-  - [clerkjs](https://clerk.com/docs) => Sadece birkaç satır kodla bütün authentication işlemlerini halledin
+  - [clerkjs](https://clerk.com/docs) => Sadece birkaç satır kodla bütün kullanıcı doğrulama işlemlerini halledin
 
 ### Next.js Paketleri
 
-- [next-offline](https://www.npmjs.com/package/next-offline) => Next.js uygulamasını offline kullanabilmek için
+- [next-offline](https://www.npmjs.com/package/next-offline) => Next.js uygulamasını çevrimdışı kullanabilmek için
 - [next-auth](https://next-auth.js.org/) => Doğrulama işlemleri için
 - [next-translate](https://github.com/aralroca/next-translate) => Çoklu dil desteği için
 - [next-i18next](https://github.com/i18next/next-i18next) => Çoklu dil desteği için
+- [next-intl](https://next-intl-docs.vercel.app/) => Çoklu dil desteği için
 - [next-sitemap](https://www.npmjs.com/package/next-sitemap) => sitemap oluşturmak için
 - [nextjs-progressbar](https://www.npmjs.com/package/nextjs-progressbar) => progress bar için
 - [@next/mdx](https://nextjs.org/docs/advanced-features/using-mdx) => mdx dosyaları için
