@@ -188,7 +188,7 @@ pnpx vercel link
 
 ### VERCEL_ORG_ID, VERCEL_PROJECT_ID, VERCEL_TOKEN repository secrets olarak girilmelidir.
 
-#### production build için action workflow
+#### production deploy için action workflow
 
 ```
 name: deploy
