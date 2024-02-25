@@ -111,6 +111,7 @@ En çok kullandığım, yararlı bulduğum ve sevdiğim React ve Next.js kaynakl
 
 - [TailwindCSS](https://tailwindcss.com/) => Önerdiğim
 - [shadcnUI](https://ui.shadcn.com/) => Önerdiğim
+- [aceternity](https://ui.aceternity.com/components) => Framer motion ile yapılmış animasyonlu UI componentleri
 
 - [Material UI](https://mui.com/) 
 - [Material Tailwind](https://www.material-tailwind.com/)
